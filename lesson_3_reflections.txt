@@ -1,0 +1,7 @@
+When would you want to create a remote repository rather than keeping all your work locally?
+
+I want to create a remote repository because
+1. In locall machine my data is insecure, it can be lost anytime.
+2. If my data is in remote repository, i can access it anytime anywhere
+3. If data is in remote repository, more than one person can work on single project
+4. If data is in remote repository, we can easily find bugs
